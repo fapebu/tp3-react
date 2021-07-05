@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tp3-react/static/css/main.634fd967.chunk.css",
+    "main.js": "/tp3-react/static/js/main.7c59a194.chunk.js",
+    "main.js.map": "/tp3-react/static/js/main.7c59a194.chunk.js.map",
+    "runtime-main.js": "/tp3-react/static/js/runtime-main.5aedf451.js",
+    "runtime-main.js.map": "/tp3-react/static/js/runtime-main.5aedf451.js.map",
+    "static/js/2.eb0c3d34.chunk.js": "/tp3-react/static/js/2.eb0c3d34.chunk.js",
+    "static/js/2.eb0c3d34.chunk.js.map": "/tp3-react/static/js/2.eb0c3d34.chunk.js.map",
+    "index.html": "/tp3-react/index.html",
+    "static/css/main.634fd967.chunk.css.map": "/tp3-react/static/css/main.634fd967.chunk.css.map",
+    "static/js/2.eb0c3d34.chunk.js.LICENSE.txt": "/tp3-react/static/js/2.eb0c3d34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aedf451.js",
+    "static/js/2.eb0c3d34.chunk.js",
+    "static/css/main.634fd967.chunk.css",
+    "static/js/main.7c59a194.chunk.js"
+  ]
+}
